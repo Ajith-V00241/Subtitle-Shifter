@@ -1,0 +1,4 @@
+I have created a subtitle shifter app.
+
+The name of the input SUBTITLE(.srt) is hardcoded
+The output file is generated as output.srt
