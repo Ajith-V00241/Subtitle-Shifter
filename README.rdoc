@@ -1,4 +1,8 @@
 I have created a subtitle shifter app.
+program name is "subShifterApp.rb"
 
-The name of the input SUBTITLE(.srt) is hardcoded
-The output file is generated as output.srt
+COMMAND TO RUN: ruby subShifterApp.rb <option> "<second,millisecond>"
+	OPTIONS : left, right
+	eg: ruby subShifterApp.rb left "99,220"
+The name of the input SUBTITLE(.srt) is hardcoded as "gg.srt"
+The output file is generated as "output.srt"
